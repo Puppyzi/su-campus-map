@@ -150,9 +150,3 @@ for (let location in markers) {
     li.appendChild(a);
     locDropdownMenu.appendChild(li);
 }
-
-// <button class="btn btn-primary" onclick="">Samia</button>
-//<button class="btn btn-primary" onclick="toggleMarkerPopup('Sawyer', this)">Sawyer</button>
-//<button class="btn btn-primary" onclick="toggleMarkerPopup('Sargent', this)">Sargent Hall</button>
-//<button class="btn btn-primary" onclick="toggleMarkerPopup('Stahl', this)">Stahl</button>
-//<button class="btn btn-primary" onclick="toggleMarkerPopup('One Beacon', this)">One Beacon</button>
