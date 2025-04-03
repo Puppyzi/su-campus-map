@@ -1,4 +1,4 @@
-# SU Campus MAP
+# SU Campus Map
 
 A prototype of the campus map website created for the Suffolk University Computational Science and Mathematics association.
 
